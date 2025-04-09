@@ -1,1 +1,1 @@
-# game
+# STONE PAPER SCISSORS GAME
